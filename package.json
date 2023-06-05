@@ -1,0 +1,12 @@
+{
+  "name": "wehub-invoice-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Wehub Freelance Agency",
+  "license": "ISC"
+}
