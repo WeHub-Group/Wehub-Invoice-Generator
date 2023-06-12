@@ -13,6 +13,7 @@ dist-ssr/
 yarn.lock
 package.lock
 .DS_Store
+.env
 *.local
 
 
